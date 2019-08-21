@@ -1,0 +1,47 @@
+ RequestUrl: https://quickbooks.api.intuit.com/v3/company/123146334979119/creditmemo?minorversion=37&requestid=264ec7d790214a59ad8822553f00ce5e, Request Payload:<?xml version="1.0"?>
+<CreditMemo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schema.intuit.com/finance/v3">
+  <CustomField>
+    <DefinitionId>1</DefinitionId>
+    <Name>PickUp-Drop</Name>
+    <Type>StringType</Type>
+    <StringValue>Sangli-Mumbai</StringValue>
+  </CustomField>
+  <CustomField>
+    <DefinitionId>2</DefinitionId>
+    <Name>Journey Date</Name>
+    <Type>StringType</Type>
+    <StringValue>06-Aug-2019</StringValue>
+  </CustomField>
+  <CustomField>
+    <DefinitionId>3</DefinitionId>
+    <Name>Phone Number</Name>
+    <Type>StringType</Type>
+    <StringValue>123,</StringValue>
+  </CustomField>
+  <DocNumber>HOCNPNR181272379</DocNumber>
+  <TxnDate>2019-08-06</TxnDate>
+  <DepartmentRef name="Konduskar, Mahalaxmi Chambers">7</DepartmentRef>
+  <PrivateNote>[Voucher No : HOCNPNR181272379], Cancelled - PNR : 181272379 -- Automaticaly posted from CRS</PrivateNote>
+  <Line>
+    <Description>Cancelled - PNR : 181272379, Passenger Name : omkar
+Seats : U9
+Trip : Sangli-Mumbai, Route : Ichalkaranji-Mumbai
+Bus Code : , Bus Type : 
+Journey DateTime : 06-Aug-2019 09:05 PM,
+Booking DateTime : 05-Aug-2019 04:53 PM,
+Pickup Name: Vishrambaug-Hemraj Travels,
+DropOff Name: </Description>
+    <Amount>799.45</Amount>
+    <DetailType>SalesItemLineDetail</DetailType>
+    <SalesItemLineDetail>
+      <ItemRef name="SNGLIMUM_28201 07.35 PM">152</ItemRef>
+      <UnitPrice>799.45</UnitPrice>
+      <Qty>1</Qty>
+      <TaxCodeRef>24</TaxCodeRef>
+    </SalesItemLineDetail>
+  </Line>
+  <CustomerRef name="Hemraj Travels">1380</CustomerRef>
+  <GlobalTaxCalculation>TaxExcluded</GlobalTaxCalculation>
+  <TotalAmt>799.45</TotalAmt>
+  <InvoiceRef name="InvoiceRef">3738</InvoiceRef>
+</CreditMemo>

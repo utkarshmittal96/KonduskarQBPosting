@@ -1,0 +1,22 @@
+ RequestUrl: https://quickbooks.api.intuit.com/v3/company/123146334979119/payment?minorversion=37&requestid=8c4a169ec0f549a1a33014932db96130, Request Payload:<?xml version="1.0"?>
+<Payment xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://schema.intuit.com/finance/v3">
+  <TxnDate>2019-08-06</TxnDate>
+  <PrivateNote>[Voucher No : Test] -- Automaticaly posted from CRS</PrivateNote>
+  <Line>
+    <Amount>799.45</Amount>
+    <LinkedTxn>
+      <TxnId>3738</TxnId>
+      <TxnType>Invoice</TxnType>
+    </LinkedTxn>
+  </Line>
+  <Line>
+    <Amount>799.45</Amount>
+    <LinkedTxn>
+      <TxnId>4320</TxnId>
+      <TxnType>CreditMemo</TxnType>
+    </LinkedTxn>
+  </Line>
+  <CustomerRef name="Hemraj Travels">1380</CustomerRef>
+  <TotalAmt>0</TotalAmt>
+  <UnappliedAmt>0</UnappliedAmt>
+</Payment>

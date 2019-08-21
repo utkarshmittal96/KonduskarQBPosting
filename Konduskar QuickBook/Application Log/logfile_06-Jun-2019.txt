@@ -1,0 +1,15 @@
+06-Jun-2019 16:42:02.937 : Konduskar Booked Franchise Vouchers Started...
+06-Jun-2019 16:47:37.187 : GetFranchiseVoucherDetailsFromCRS::Validation::Invalid DivisionId for VoucherNo: 726 FranchiseID: 21827
+06-Jun-2019 16:47:40.728 : SendMail : Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. k13sm1723948pgq.45 - gsmtp
+06-Jun-2019 16:47:40.728 : GetFranchiseVoucherDetailsFromCRS::Validation::Invalid DivisionId for VoucherNo: 727 FranchiseID: 3703
+06-Jun-2019 16:47:43.426 : SendMail : Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. d9sm1586084pgj.34 - gsmtp
+06-Jun-2019 16:47:43.426 : GetFranchiseVoucherDetailsFromCRS::Validation::Invalid DivisionId for VoucherNo: 728 FranchiseID: 3703
+06-Jun-2019 16:47:46.237 : SendMail : Mailbox unavailable. The server response was: 5.4.5 Daily user sending quota exceeded. d10sm4607087pgh.43 - gsmtp
+06-Jun-2019 16:47:46.237 : GetFranchiseVoucherDetailsFromCRS::Validation::Invalid DivisionId for VoucherNo: 729 FranchiseID: 3703
+06-Jun-2019 16:48:46.257 : SendMail : The operation has timed out.
+06-Jun-2019 16:48:46.258 : GetFranchiseVoucherDetailsFromCRS::Validation::Invalid DivisionId for VoucherNo: 730 FranchiseID: 3703
+06-Jun-2019 16:48:59.214 : Konduskar Booked Franchise Vouchers Started...
+06-Jun-2019 16:52:19.531 : PostFranchiseVouchers::::No Of Franchise Vouchers: 66
+06-Jun-2019 17:01:11.625 : PostFranchiseVouchers::::No Of Franchise Vouchers: 66
+06-Jun-2019 17:50:06.842 : Konduskar Franchise Vouchers Ended...
+06-Jun-2019 17:50:09.181 : Check Qb Posting...

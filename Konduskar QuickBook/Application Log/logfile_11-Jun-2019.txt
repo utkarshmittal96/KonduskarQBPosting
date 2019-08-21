@@ -1,0 +1,42 @@
+11-Jun-2019 10:24:20.034 : Master Data Started...
+11-Jun-2019 10:25:16.116 : Entry6
+11-Jun-2019 10:25:17.062 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 10:25:17.139 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 10:25:28.177 : Entry4
+11-Jun-2019 10:25:38.947 : Entry3
+11-Jun-2019 10:25:44.574 : Entry5
+11-Jun-2019 10:25:45.994 : Entry7
+11-Jun-2019 10:26:18.098 : Entry3
+11-Jun-2019 10:26:22.174 : Entry5
+11-Jun-2019 10:26:35.881 : Master Data Ended...
+11-Jun-2019 11:56:55.562 : PostFranchiseVouchers::::No Of Franchise Vouchers: 100
+11-Jun-2019 11:57:14.439 : Entry6
+11-Jun-2019 11:57:14.439 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 11:57:14.440 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 11:57:18.092 : Entry4
+11-Jun-2019 11:57:28.297 : Entry3
+11-Jun-2019 11:57:28.968 : Exception2
+11-Jun-2019 11:57:47.261 : Entry3
+11-Jun-2019 11:59:17.904 : Entry6
+11-Jun-2019 11:59:18.455 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 11:59:18.608 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 12:00:04.456 : Entry3
+11-Jun-2019 12:05:28.685 : Konduskar Franchise Vouchers Ended...
+11-Jun-2019 16:10:32.916 : Master Data Started...
+11-Jun-2019 16:11:42.248 : Entry6
+11-Jun-2019 16:11:42.878 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:11:43.104 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:11:57.633 : Entry4
+11-Jun-2019 16:12:09.413 : Entry3
+11-Jun-2019 16:14:01.350 : Entry3
+11-Jun-2019 16:14:05.697 : Entry6
+11-Jun-2019 16:14:06.263 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:14:06.884 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:14:41.885 : Entry6
+11-Jun-2019 16:14:42.692 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:14:43.152 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+11-Jun-2019 16:14:53.991 : Entry4
+11-Jun-2019 16:15:36.682 : Entry3
+11-Jun-2019 16:18:50.171 : Entry3
+11-Jun-2019 16:18:56.443 : Entry5
+11-Jun-2019 16:21:46.475 : Master Data Ended...

@@ -1,0 +1,60 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="intuit">
+      <section name="ipp" type="Intuit.Ipp.Utility.IppConfigurationSection, Intuit.Ipp.Utility" allowDefinition="Everywhere" allowLocation="true" />
+    </sectionGroup>
+  </configSections>
+  <intuit>
+    <ipp>
+      <logger>
+        <!-- To enable/diSable Request and Response log-->
+        <requestLog enableRequestResponseLogging="true" requestResponseLoggingDirectory="E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\QB log" />
+      </logger>
+    </ipp>
+  </intuit>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.5.2" />
+  </startup>
+  <appSettings>
+    <add key="ConnectionStringMaster" value="server=13.228.94.164;User Id=root;database=crs2011;password=crs43211234src;pooling=false;" />
+    <add key="ConnectionStringSlave" value="server=52.76.182.185;User Id=root;database=crs2011;password=crss43211234ssrc;pooling=true;" />
+    <!--Live-->
+    <add key="ConsumerKey" value="lvprd59Gzh0Qc29pSbFRO72NAIA4W7" />
+    <add key="ConsumerSecret" value="6oowDxiQx4rFzDTtFjBS6uyv24i8oxEZZwnhg5hp" />
+    <!--SandBox-->
+    <!--<add key="ConsumerKey" value="qyprd4BSsnmnhKBCUQXDumx0ol7z02" />
+    <add key="ConsumerSecret" value="g9SR3Mye5rGuWXm8IwDTp0jpUms4hAniRCTJfTCK" />-->
+    <add key="AccessToken" value="lvprdLWDfasQLWF8wwEjKPqx95HU8otksqhpSDseR9zMWTQ9" />
+    <add key="AccessTokenSecret" value="iv0AAZdjI9G1TznLeiKeBrjQjUQiPYqTtJfuASY6" />
+    <add key="RealmId" value="408321181" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+
+    <add key="LogPath" value="E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\Application Log\"/>
+    <add key="ServerOffsetMins" value="0"/>
+
+    <add key="SMTPServer" value="smtp.gmail.com"/>
+    <add key="SMTPPort" value="587"/>
+    <add key="EmailId" value="info@travelyaari.com"/>
+    <add key="EmailPassword" value="y@@r!123"/>
+    <add key="EmailTo" value="utkarsh.mittal@travelyaari.com"/>
+
+    <add key="PostMasterData" value="false"/>
+    <add key="PostTransactionData" value="false"/>
+    <add key="PostAgentVouchers" value="false"/>
+    
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+</configuration>

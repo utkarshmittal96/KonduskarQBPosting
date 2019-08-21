@@ -1,0 +1,88 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<configuration>
+  <configSections>
+    <sectionGroup name="intuit">
+      <section name="ipp" type="Intuit.Ipp.Utility.IppConfigurationSection, Intuit.Ipp.Utility" allowDefinition="Everywhere" allowLocation="true" />
+    </sectionGroup>
+  </configSections>
+  <intuit>
+    <ipp>
+      <logger>
+        <!-- To enable/diSable Request and Response log-->
+        <requestLog enableRequestResponseLogging="true" requestResponseLoggingDirectory="E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\QB log" />
+      </logger>
+    </ipp>
+  </intuit>
+  <startup>
+    <supportedRuntime version="v4.0" sku=".NETFramework,Version=v4.6.1" />
+  </startup>
+  <appSettings>
+    <add key="ConnectionStringMaster" value="server=13.228.94.164;User Id=root;database=crs2011;password=crs43211234src;pooling=false;" />
+    <add key="ConnectionStringSlave" value="server=52.76.182.185;User Id=root;database=crs2011;password=crss43211234ssrc;pooling=true;" />
+    <!--Live-->
+    <add key="ConsumerKey" value="qyprdJNdJ8VVu7IERCudg4HUy19kbV" />
+    <add key="ConsumerSecret" value="gFMQ643bYUdkKYP1J9eIEPaB8OWwk48d8lGlbu8Z" />
+    <!--SandBox-->
+    <!--<add key="ConsumerKey" value="qyprd4BSsnmnhKBCUQXDumx0ol7z02" />
+    <add key="ConsumerSecret" value="g9SR3Mye5rGuWXm8IwDTp0jpUms4hAniRCTJfTCK" />-->
+    <!--<add key="AccessToken" value="lvprdJU1q1MI3YrQddUIfMoiQZsyMk7cnos9UMAjDBoVRlBm" />-->
+    <add key="AccessToken" value="eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..usgmpb8AAat70aCNLoABAg.bhVf3XT99R10Mo_b_QOO47LLO3cjhUnqXMy8jN8pMrM593XIVyy_YxTCMKKrbm0_-7-9-rHmXza52FG_1QZh8R-MYJIcnqAwurdPahL-tLmrvTizbBQelVAPaFN-QNqqlxh4Cww3XwS11c1Gg9EU420LjL5sir3A-RwfLXyjIO9d_ad4jMoyyJR0M094oLJlEo0uQNkcepjB0etc9-mTD5KKY6F_GLpFiUBBThnJSJ19sOLtm_FXLncaoZNbUwU4LXIBGudnALLE8HcCJdOZuZp_FnJW8GvW5CWuErkKajcYS4KGgNgJFJfTY8M17biFyVSH8u8N9ValIHBvbeBkDeFtTC8o31J6vZiyyRssq_LfRkCGwJLuHMhj3zGadL9y3u-BWmBwAeklBeLFZBqL9Ru6w64tArVfbIWgU9VykPrX833U0w9Xqyu3vlh1h9G10zqOH48h6AkRNWciw15FrIDL45vfjPBJrbe1_-ZA51A4xgQVTBfn0DlyduqTQpugTkKlI1vWi6ZuygwA584AGVM3AAwYDR0T9-ukmAoHvMzXsyAEltqS6PRIeOcBytS3iJrnwBI35h8ap0d7vOo0LOt3lUP6mS9L9yuvPAr1Htfu8ErJyeQUWGAw-wiwXlOBlLj4zxB6hxOgTXCJG5O4SN5rgA0sWkFY1lNFhC_0I7vXG7C0mz-0x2hIGap7k--bBWhV143xfBMZvWlsxmoDtJur9WIpR3bd49bSswRIZ5U.gDNbJWi-qKjsHsPjL2OFwQ" />
+    <add key="AccessTokenSecret" value="Q011568359682i7oIGsAEORzS0KdhGJ4qtjQid1t9iiNALUG7s" />
+    <!--<add key="RealmId" value="123146366346014" />-->
+    <add key="RealmId" value="4611809164061442788" />
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+    <add key="CompanyID" value="69" />
+    
+    <add key="clientid" value="Q0ch2lT9euQ4Rr9PZ77iuS00OjadN9L2kySeX19Od2bmULP6gj" />
+    <add key="clientsecret" value="hRsP61EcqBTVLOYlyz5LZi6GHoa7OSlNRqIPj9ye" />
+    <add key="redirectUrl" value="https://developer.intuit.com/v2/OAuth2Playground/RedirectUrl" />
+    <add key="appEnvironment" value="sandbox" />
+
+    <add key="LogPath" value="E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\Application Log\" />
+    <add key="TokenPath" value="E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug" />
+    <add key="ServerOffsetMins" value="0" />
+
+    <add key="SMTPServer" value="smtp.gmail.com" />
+    <add key="SMTPPort" value="587" />
+    <add key="EmailId" value="info@travelyaari.com" />
+    <add key="EmailPassword" value="y@@r!123" />
+    <add key="EmailTo" value="utkarsh.mittal@travelyaari.com" />
+
+    <add key="PostMasterData" value="false" />
+    <add key="PostTransactionData" value="true" />
+    <add key="CheckQBConnection" value="false" />
+    <add key="PostTrips" value="false" />
+    <add key="PostBuses" value="false" />
+    <add key="PostAgents" value="false" />
+    <add key="VerifyAgents" value="false" />
+    <add key="PostExpense" value="false" />
+    <add key="PostFranchiseandBranches" value="false" />
+    <add key="PostBookedAgentVouchers" value="true" />
+    <add key="PostCancelledAgentVouchers" value="false" />
+    <add key="PostBranchBookings" value="false" />
+    <add key="PostBookedFranchiseVouchers" value="false" />
+    <add key="PostBranchCancellation" value="false" />
+    
+    <add key="ClientSettingsProvider.ServiceUri" value="" />
+  </appSettings>
+  <system.web>
+    <membership defaultProvider="ClientAuthenticationMembershipProvider">
+      <providers>
+        <add name="ClientAuthenticationMembershipProvider" type="System.Web.ClientServices.Providers.ClientFormsAuthenticationMembershipProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" />
+      </providers>
+    </membership>
+    <roleManager defaultProvider="ClientRoleProvider" enabled="true">
+      <providers>
+        <add name="ClientRoleProvider" type="System.Web.ClientServices.Providers.ClientRoleProvider, System.Web.Extensions, Version=4.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35" serviceUri="" cacheTimeout="86400" />
+      </providers>
+    </roleManager>
+  </system.web>
+  <runtime>
+    <assemblyBinding xmlns="urn:schemas-microsoft-com:asm.v1">
+      <dependentAssembly>
+        <assemblyIdentity name="Newtonsoft.Json" publicKeyToken="30ad4fe6b2a6aeed" culture="neutral" />
+        <bindingRedirect oldVersion="0.0.0.0-12.0.0.0" newVersion="12.0.0.0" />
+      </dependentAssembly>
+    </assemblyBinding>
+  </runtime>
+</configuration>

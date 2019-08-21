@@ -1,0 +1,71 @@
+25-Jun-2019 11:38:09.400 : Master Data Started...
+25-Jun-2019 11:41:53.414 : Entry6
+25-Jun-2019 11:41:54.078 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 11:41:54.358 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 11:42:42.913 : Entry4
+25-Jun-2019 11:42:57.099 : Entry3
+25-Jun-2019 11:43:03.129 : Entry5
+25-Jun-2019 11:43:04.939 : Entry7
+25-Jun-2019 11:44:14.619 : Entry3
+25-Jun-2019 11:44:15.907 : Entry5
+25-Jun-2019 11:44:54.872 : Entry3
+25-Jun-2019 11:44:56.199 : Entry5
+25-Jun-2019 11:46:19.052 : Entry3
+25-Jun-2019 11:46:20.542 : Entry5
+25-Jun-2019 11:47:13.742 : Entry3
+25-Jun-2019 11:47:14.931 : Entry5
+25-Jun-2019 11:47:38.449 : Entry3
+25-Jun-2019 11:47:39.693 : Entry5
+25-Jun-2019 11:47:53.918 : Entry3
+25-Jun-2019 11:47:55.159 : Entry5
+25-Jun-2019 11:48:05.467 : Entry3
+25-Jun-2019 11:48:06.677 : Entry5
+25-Jun-2019 11:48:20.746 : Entry3
+25-Jun-2019 11:48:21.987 : Entry5
+25-Jun-2019 11:48:24.077 : Franchise::KTPL - Solapur::Failed:Insert- BadRequest : BadRequest
+25-Jun-2019 11:48:29.039 : Entry3
+25-Jun-2019 11:48:30.363 : Entry5
+25-Jun-2019 11:48:42.154 : Entry3
+25-Jun-2019 11:48:44.159 : Entry5
+25-Jun-2019 11:48:58.662 : Entry3
+25-Jun-2019 11:49:00.038 : Entry5
+25-Jun-2019 11:49:09.552 : Master Data Ended...
+25-Jun-2019 13:08:00.991 : konduskar Bookings Started...
+25-Jun-2019 13:09:19.013 : Entry6
+25-Jun-2019 13:09:19.612 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 13:09:19.781 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 13:09:28.318 : Entry4
+25-Jun-2019 13:09:36.387 : Entry3
+25-Jun-2019 13:10:56.789 : Entry3
+25-Jun-2019 13:11:04.577 : Entry4
+25-Jun-2019 13:11:35.399 : Entry3
+25-Jun-2019 13:13:07.931 : Entry3
+25-Jun-2019 13:13:13.602 : Entry5
+25-Jun-2019 13:16:19.520 : Entry3
+25-Jun-2019 13:16:22.420 : Entry5
+25-Jun-2019 14:14:49.753 : Entry3
+25-Jun-2019 14:15:04.432 : Entry4
+25-Jun-2019 14:15:13.619 : Entry3
+25-Jun-2019 14:15:18.904 : Entry5
+25-Jun-2019 14:15:19.732 : Entry7
+25-Jun-2019 14:17:10.458 : konduskar Bookings Ended...
+25-Jun-2019 14:18:34.200 : Entry3
+25-Jun-2019 14:18:35.722 : Entry5
+25-Jun-2019 14:23:32.044 : konduskar Bookings Ended...
+25-Jun-2019 14:34:48.121 : konduskar Bookings Started...
+25-Jun-2019 14:35:22.807 : Entry6
+25-Jun-2019 14:35:22.808 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 14:35:22.808 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 14:35:33.172 : Entry4
+25-Jun-2019 14:35:47.121 : Entry3
+25-Jun-2019 14:35:51.064 : Entry5
+25-Jun-2019 14:35:52.123 : Entry7
+25-Jun-2019 14:37:36.517 : Entry3
+25-Jun-2019 14:37:37.875 : Entry5
+25-Jun-2019 14:38:32.785 : konduskar Bookings Ended...
+25-Jun-2019 15:11:44.071 : Master Data Started...
+25-Jun-2019 15:13:16.750 : Entry6
+25-Jun-2019 15:13:17.620 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 15:13:17.620 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+25-Jun-2019 15:13:20.078 : Entry5
+25-Jun-2019 15:13:36.209 : Master Data Ended...

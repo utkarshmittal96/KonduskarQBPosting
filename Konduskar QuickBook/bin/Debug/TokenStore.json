@@ -1,0 +1,11 @@
+{
+  "Oauth2Keys": {
+    "AccessToken": "eyJlbmMiOiJBMTI4Q0JDLUhTMjU2IiwiYWxnIjoiZGlyIn0..a3SOIs3zGcYLHbGNOYbgqQ.tln7TbwkHDnZUDoHOyW6CjIcFaHW2_cAQZH2qWHlMIOCy-ubZwauU_JllyucDkOzeRQ-u57J1aFE-_k5Qzg1VoFkS1rtgaYNnYLRVg7WiRc87kPTi-4BT1pYdySrqeHB3bxu_QHGY0PQoaYGO6BGAgpjfx7tYxwIQ98iNcT34N9gzlShp4MD7NL9exSEIboGrOTnbE64S4De_k6TOItxoVSZz3A59S8cO1BbsbpDy29PvPRZk5uP1clYtO-L_S6ryuSBeDOSJmR7-SX_lVrixvpKYbwbdCbJipG3CZVop_NvpiVIIAl0qfhaTrSvBj3y2X7SbTLc1tvVVkOia3ndNXrlpKdLeC75IQgjSMcyElDBS4KJCvfbZw5CoA3xm_FvdpUH4fyXhc8D_COSyhv6zAU3QuXmxy4U_HdBpQJHBofnKmt0bTfTOaQvI2Fkj8hh99hqWkSFovthcPla0HNrz9rm5t4SljVk0x1e0acIVBetkqqJlcm5a8QwR2zfGfFqL0D4CkYlOIinfH0v2keE4GIXL-kkKeO0IlCHVMSlMLBY2PQDZRn-6lDWYCxGUWRMQK5FN_lIloMv4o_gRIOgZS1LlAzbu8c2oPc9cYc7DadCTXz7zygyPc2cTHEpEhwmvuo5kuTsoq5cg2oxzHsHSL1b7o-iYNUwMeYSpWtoOrWPOW5IE8KdJ7LrEwbTOuzz0qiDEvfHMRQ4kGe_DLF12jIIkC1PYluu5YYUV8zeTz4.oY-rE11PGjCRKZNLucsyTg",
+    "RefreshToken": "AB11573797725VEKPLrq0FOuJWITGLGLuFNU68bsTpgAH1UJhZ",
+    "ClientId": "ABCbR8jSdrAl96kg6dnyS90A8kJZxax4hHR25bVDx34KFhq3CX",
+    "ClientSecret": "mLAd4wHkg5d7AYytuAVP7jmETE5hJmJDtPF0IORL",
+    "RealmId": "123146334979119",
+    "RedirectUrl": "https://developer.intuit.com/v2/OAuth2Playground/RedirectUrl",
+    "Environment": "production"
+  }
+}

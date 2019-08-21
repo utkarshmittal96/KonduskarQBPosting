@@ -1,0 +1,92 @@
+06-Aug-2019 11:26:59.574 : Konduskar Cancelled Agent Vouchers Credit Note Started...
+06-Aug-2019 11:27:18.656 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 11:27:29.319 : Entry6
+06-Aug-2019 11:27:29.320 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:27:29.320 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:27:32.352 : Entry4
+06-Aug-2019 11:27:39.402 : Entry3
+06-Aug-2019 11:27:40.668 : Konduskar Agent Vouchers Cancelletion Ended...
+06-Aug-2019 11:27:51.122 : Konduskar Booked Franchise Vouchers Started...
+06-Aug-2019 11:29:07.496 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 11:29:17.337 : Entry3
+06-Aug-2019 11:29:33.135 : Entry3
+06-Aug-2019 11:29:45.236 : Entry4
+06-Aug-2019 11:33:10.700 : Entry3
+06-Aug-2019 11:33:40.943 : Konduskar Agent Vouchers Cancelletion Ended...
+06-Aug-2019 11:34:21.282 : Konduskar Cancelled Agent Vouchers Credit Note Started...
+06-Aug-2019 11:34:38.855 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 11:35:05.877 : Entry6
+06-Aug-2019 11:35:15.258 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:35:15.450 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:35:26.381 : Entry5
+06-Aug-2019 11:39:25.452 : Entry3
+06-Aug-2019 11:39:53.002 : Entry3
+06-Aug-2019 11:40:12.290 : Entry4
+06-Aug-2019 11:42:26.407 : Entry3
+06-Aug-2019 11:42:45.570 : Entry3
+06-Aug-2019 11:43:38.091 : Entry6
+06-Aug-2019 11:43:38.624 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:43:39.119 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 11:43:46.625 : Entry5
+06-Aug-2019 11:44:11.340 : Entry3
+06-Aug-2019 11:44:48.042 : Entry3
+06-Aug-2019 11:45:01.533 : Entry5
+06-Aug-2019 11:55:12.069 : Entry3
+06-Aug-2019 11:55:18.554 : Entry5
+06-Aug-2019 11:55:43.873 : Entry3
+06-Aug-2019 11:55:44.828 : Entry5
+06-Aug-2019 11:56:20.719 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 11:56:24.453 : Entry3
+06-Aug-2019 11:56:25.116 : Entry5
+06-Aug-2019 11:56:36.946 : Entry3
+06-Aug-2019 11:56:37.762 : Entry5
+06-Aug-2019 12:00:13.054 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 12:00:26.121 : Entry3
+06-Aug-2019 12:00:27.915 : Entry5
+06-Aug-2019 12:00:48.896 : Entry3
+06-Aug-2019 12:00:49.721 : Entry5
+06-Aug-2019 12:01:40.492 : Konduskar Agent Vouchers Cancelletion Ended...
+06-Aug-2019 14:35:16.408 : Konduskar Cancelled Agent Vouchers Credit Note Started...
+06-Aug-2019 14:35:57.182 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 46
+06-Aug-2019 14:36:06.172 : Entry6
+06-Aug-2019 14:36:06.173 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 14:36:06.174 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 14:36:12.877 : Entry4
+06-Aug-2019 14:36:26.192 : Entry3
+06-Aug-2019 14:36:27.576 : Entry5
+06-Aug-2019 14:36:27.577 : Entry7
+06-Aug-2019 14:39:09.926 : Entry3
+06-Aug-2019 14:39:11.757 : Entry5
+06-Aug-2019 14:39:45.510 : Connection Error: MySql.Data.MySqlClient.MySqlException (0x80004005): Table 'crs2011.vouchercreditnoteid' doesn't exist
+   at MySql.Data.MySqlClient.MySqlStream.ReadPacket()
+   at MySql.Data.MySqlClient.NativeDriver.GetResult(Int32& affectedRow, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.GetResult(Int32 statementId, Int32& affectedRows, Int32& insertedId)
+   at MySql.Data.MySqlClient.Driver.NextResult(Int32 statementId, Boolean force)
+   at MySql.Data.MySqlClient.MySqlDataReader.NextResult()
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteReader(CommandBehavior behavior)
+   at MySql.Data.MySqlClient.MySqlCommand.ExecuteNonQuery()
+   at Konduskar_QuickBook.CRSDAL.ExecuteDML(String strSQL, CommandType cmdType, Int32 intTimeout, String& strErr) in E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\DAL\CRSDAL.cs:line 113
+06-Aug-2019 14:41:39.712 : Entry3
+06-Aug-2019 14:41:41.549 : Entry5
+06-Aug-2019 14:42:54.143 : Entry3
+06-Aug-2019 14:42:54.848 : Entry5
+06-Aug-2019 14:44:42.181 : Konduskar Agent Vouchers Cancelletion Ended...
+06-Aug-2019 16:07:42.533 : Started1...
+06-Aug-2019 16:15:19.763 : Started...
+06-Aug-2019 16:16:39.452 : Started1...
+06-Aug-2019 16:17:23.527 : Konduskar Cancelled Agent Vouchers Credit Note Started...
+06-Aug-2019 16:17:36.229 : Konduskar Agent Vouchers Cancelletion Ended...
+06-Aug-2019 16:32:13.720 : Started...
+06-Aug-2019 16:32:25.766 : Started1...
+06-Aug-2019 16:32:28.196 : Konduskar Cancelled Agent Vouchers Credit Note Started...
+06-Aug-2019 16:33:08.719 : PostAgentVouchersCancellation_Konduskar::::No Of Agent Vouchers Cancellation: 1
+06-Aug-2019 16:33:29.194 : Entry6
+06-Aug-2019 16:33:29.196 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 16:33:29.197 : E:\Konduskar QuickBook Posting\Konduskar QuickBook\Konduskar QuickBook\bin\Debug
+06-Aug-2019 16:33:32.388 : Entry4
+06-Aug-2019 16:33:37.953 : Entry3
+06-Aug-2019 16:33:38.794 : Entry5
+06-Aug-2019 16:33:38.794 : Entry7
+06-Aug-2019 16:34:42.677 : Entry3
+06-Aug-2019 16:34:43.493 : Entry5
+06-Aug-2019 16:36:58.661 : Konduskar Agent Vouchers Cancelletion Ended...
